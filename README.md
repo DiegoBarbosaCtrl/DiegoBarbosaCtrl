@@ -6,7 +6,7 @@ Sou estudante de Engenharia da Computação. Atualmente, estou focado em aprofun
 
 - 🌱 Estou aprendendo sobre desenvolvimento de software e boas práticas de programação.
 - 👨‍💻 Todos os meus projetos de estudo estão documentados aqui no meu GitHub para demonstrar minha evolução.
-- 📫 Você pode me encontrar no LinkedIn: `[www.linkedin.com/in/diego-serafim-a18b31340]`
+- 📫 Você pode me encontrar no LinkedIn: `www.linkedin.com/in/diego-serafim-a18b31340`
 
 <br>
 
