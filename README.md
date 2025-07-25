@@ -2,7 +2,7 @@
 
 <br>
 
-Sou um entusiasta de tecnologia e estudante de Engenharia da Computação. Atualmente, estou focado em aprofundar meus conhecimentos em Python, lógica de programação e ferramentas de desenvolvimento como Git e GitHub.
+Sou estudante de Engenharia da Computação. Atualmente, estou focado em aprofundar meus conhecimentos em Python, lógica de programação e ferramentas de desenvolvimento como Git e GitHub.
 
 - 🌱 Estou aprendendo sobre desenvolvimento de software e boas práticas de programação.
 - 👨‍💻 Todos os meus projetos de estudo estão documentados aqui no meu GitHub para demonstrar minha evolução.
